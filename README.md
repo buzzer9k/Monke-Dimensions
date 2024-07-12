@@ -1,2 +1,3 @@
 # Monke-Dimensions
-a gorilla tag mod that allows you to join custom maps
+# FIXES UTILLA FOR THE CAVE UPDATE!
+** NOT AGAINST DISCORD TOS AS GORILLA TAG HAS THEIR OWN MODDING DISCORD, THIS IS JUST ANOTHER MOD!**
